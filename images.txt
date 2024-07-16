@@ -1,1 +1,1 @@
-hyper/docker-registry-web
+hyper/docker-registry-web:v0.1.2
